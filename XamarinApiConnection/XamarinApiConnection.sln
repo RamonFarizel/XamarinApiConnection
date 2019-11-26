@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinApiConnection.Androi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinApiConnection.iOS", "XamarinApiConnection\XamarinApiConnection.iOS\XamarinApiConnection.iOS.csproj", "{5681B813-DAE0-461B-BE4F-3482D6B0278A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinApiConnection", "XamarinApiConnection\XamarinApiConnection\XamarinApiConnection.csproj", "{FC007403-B5ED-4A8B-B076-4DB2191C774A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinApiConnection", "XamarinApiConnection\XamarinApiConnection\XamarinApiConnection.csproj", "{FC007403-B5ED-4A8B-B076-4DB2191C774A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
